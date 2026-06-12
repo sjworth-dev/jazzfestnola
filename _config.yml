@@ -1,8 +1,9 @@
 # Site settings
 title: Jazz Fest NOLA
 description: The ultimate guide to New Orleans Jazz & Heritage Festival with your crew. Music, food, friends—all weekend long.
-url: "https://jazzfestnola.com"
+url: "https://jazzfestforgroups.com"
 baseurl: ""
+image: /assets/images/castleday-aerial.jpg
 
 # SEO
 author: Jazz Fest NOLA
@@ -33,6 +34,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      image: /assets/images/castleday-aerial.jpg
 
 # Exclude from build
 exclude:

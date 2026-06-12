@@ -74,13 +74,12 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
   position: relative;
 }
 
-.property-card-image .placeholder {
+.property-card-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
   height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 4rem;
-  background: linear-gradient(135deg, var(--color-brown) 0%, var(--color-brass) 100%);
+  object-fit: cover;
 }
 
 .property-card-details {
@@ -148,7 +147,7 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
   <div class="container">
     <span class="handwritten">Base Camp</span>
     <h1>Where to Stay</h1>
-    <p style="opacity: 0.8; font-size: 1.25rem;">Private properties near Fair Grounds. Room for your whole crew.</p>
+    <p style="opacity: 0.8; font-size: 1.25rem;">Private villas in New Orleans with room for your whole crew &mdash; and a real bed for everyone.</p>
   </div>
 </section>
 
@@ -160,15 +159,15 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
         <p>Jazz Fest hotels are expensive and far from the action. You're fighting for parking, splitting your group across floors, and recovering in a tiny room.</p>
         <p>Private properties give you space, proximity, and a place to actually rest between festival days.</p>
         <ul class="check-list">
-          <li>Private pools for recovery</li>
-          <li>Multiple bedrooms</li>
-          <li>Full kitchens</li>
-          <li>Closer to Fair Grounds</li>
-          <li>Space for 15-30 guests</li>
+          <li>Private heated pools for recovery</li>
+          <li>Enough real beds for everyone</li>
+          <li>Chef's kitchens for group meals</li>
+          <li>Live-music spots within walking distance</li>
+          <li>Space for 14-30 guests &mdash; you don't need to fill it</li>
         </ul>
       </div>
       <div class="intro-image">
-        <div style="background: linear-gradient(135deg, var(--color-brass) 0%, var(--color-brown) 100%); height: 400px; display: flex; align-items: center; justify-content: center; font-size: 4rem;">&#127927;</div>
+        <img src="/assets/images/castleday-loungers.jpg" alt="Pool loungers and palm trees at a private New Orleans group villa" loading="lazy" style="height: 400px;">
       </div>
     </div>
   </div>
@@ -184,7 +183,7 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
     <div id="castleday" class="property-card-large">
       <div class="property-card-inner">
         <div class="property-card-image">
-          <div class="placeholder">&#127968;</div>
+          <img src="/assets/images/castleday-pool.jpg" alt="Long heated pool with tropical landscaping at Castleday Retreats" loading="lazy">
         </div>
         <div class="property-card-details">
           <span class="handwritten">Featured</span>
@@ -199,20 +198,24 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
               <span class="stat-label">Bedrooms</span>
             </div>
             <div class="stat">
+              <span class="stat-number">17</span>
+              <span class="stat-label">Real Beds</span>
+            </div>
+            <div class="stat">
               <span class="stat-number">8</span>
               <span class="stat-label">Bathrooms</span>
             </div>
           </div>
-          <p>Three identical luxury villas in the Bywater, each sleeping up to 30. Private heated pool & hot tub, outdoor kitchen, basketball court, chef's kitchen. Perfect base camp for Jazz Fest with 24/7 on-site security.</p>
+          <p>Three purpose-built luxury villas in the Bywater &mdash; The Herald, The Cocodrie, and The Florentine (ADA-accessible). With 12 bedrooms and 17 real beds per villa, a crew of 16 spreads out and most people get their own room &mdash; and you don't need to fill every bed. Each villa has a private heated pool &amp; hot tub, outdoor kitchen, basketball court, chef's kitchen, and a 24/7 staffed entrance, with live-music spots like Bacchanal and Vaughan's walkable and the French Quarter 10 minutes away. Take all three villas for groups up to ~90. Jazz Fest weekends book out months ahead.</p>
           <div class="property-amenities">
             <span class="amenity-tag">Heated Pool</span>
             <span class="amenity-tag">Hot Tub</span>
             <span class="amenity-tag">Outdoor Kitchen</span>
             <span class="amenity-tag">Basketball Court</span>
             <span class="amenity-tag">Chef's Kitchen</span>
-            <span class="amenity-tag">24/7 Security</span>
+            <span class="amenity-tag">24/7 Staffed Entrance</span>
           </div>
-          <a href="https://castledayretreats.com" class="btn btn-brass" target="_blank">Check Availability</a>
+          <a href="https://castledayretreats.com/?utm_source=jazzfestforgroups.com&utm_medium=referral&utm_campaign=group-microsites" class="btn btn-brass" target="_blank" rel="noopener">Check Availability &mdash; Book Direct &amp; Save</a>
         </div>
       </div>
     </div>
@@ -220,7 +223,7 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
     <div id="thesyd" class="property-card-large">
       <div class="property-card-inner">
         <div class="property-card-image">
-          <div class="placeholder">&#127969;</div>
+          <img src="/assets/images/syd-courtyard.jpg" alt="Aerial view of The Syd's colorful courtyard pool with umbrellas" loading="lazy">
         </div>
         <div class="property-card-details">
           <span class="handwritten">Featured</span>
@@ -239,14 +242,13 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
               <span class="stat-label">Courtyards</span>
             </div>
           </div>
-          <p>Six elegant properties ranging from 5 to 10 bedrooms, each with a private courtyard. Book one or multiple for your Jazz Fest crew.</p>
+          <p>Six villas ranging from 5 to 10 bedrooms, each with a private courtyard, pool, and local art. Book one or multiple for your Jazz Fest crew.</p>
           <div class="property-amenities">
-            <span class="amenity-tag">Courtyard</span>
-            <span class="amenity-tag">Modern</span>
-            <span class="amenity-tag">Kitchen</span>
-            <span class="amenity-tag">Walkable</span>
+            <span class="amenity-tag">Private Courtyard</span>
+            <span class="amenity-tag">Pool</span>
+            <span class="amenity-tag">Local Art</span>
           </div>
-          <a href="https://thesyd.com" class="btn btn-brass" target="_blank">Check Availability</a>
+          <a href="https://thesyd.com/?utm_source=jazzfestforgroups.com&utm_medium=referral&utm_campaign=group-microsites" class="btn btn-brass" target="_blank" rel="noopener">Check Availability</a>
         </div>
       </div>
     </div>
@@ -257,7 +259,7 @@ description: Private properties for groups during Jazz Fest. Close to Fair Groun
 <section class="cta-section">
   <div class="container">
     <h2>Questions About Jazz Fest Bookings?</h2>
-    <p>We can help you find the right property for your crew.</p>
-    <a href="mailto:hello@jazzfestnola.com" class="btn btn-primary">Get in Touch</a>
+    <p>Check live availability for your dates &mdash; Jazz Fest weekends book out months ahead, and booking direct gets the lowest rate, guaranteed.</p>
+    <a href="https://castledayretreats.com/?utm_source=jazzfestforgroups.com&utm_medium=referral&utm_campaign=group-microsites" class="btn btn-primary" target="_blank" rel="noopener">Check Availability &mdash; Book Direct &amp; Save</a>
   </div>
 </section>

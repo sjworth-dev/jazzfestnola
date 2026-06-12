@@ -100,10 +100,12 @@ The festival runs Thursday-Sunday both weekends, 11am-7pm daily at the Fair Grou
 
 | Factor | Private House | Hotel |
 |--------|---------------|-------|
-| Sleep 12-20 | One property | 6-10 rooms, different floors |
+| Sleep 14-30 | One property | 6-10 rooms, different floors |
 | Pre-Fest prep | Kitchen, living room | Hotel lobby |
 | Post-Fest recovery | Pool, yard | Your small room |
-| Cost per person | $100-200/night | $250-400/night (Fest rates) |
+| Cost per person | ~$100-150/night with 16 splitting a villa | $250-400/night (Fest rates) |
+
+Event weekends like Jazz Fest price higher than off-peak — check live rates for your dates. And you don't need to fill every bed for the math to work: 16 people in a 12-bedroom villa means everyone gets a real bed and most get their own room.
 
 ### Book Early
 
@@ -114,10 +116,16 @@ The festival runs Thursday-Sunday both weekends, 11am-7pm daily at the Fair Grou
 
 ### Location Strategy
 
-**Near Fair Grounds (Best):**
+**Near Fair Grounds:**
 - Walk to the festival
 - No parking/Uber hassle
 - Mid-City, Bayou St. John, Gentilly
+
+**Bywater:**
+- Where the big group villas are — room for 14-30 under one roof
+- Live-music spots like Bacchanal and Vaughan's within walking distance
+- 10 minutes to the French Quarter, about 25 to the airport
+- Plan to Uber to the Fair Grounds
 
 **French Quarter/CBD:**
 - Best for nightlife after
@@ -337,6 +345,8 @@ Stay within walking distance (1-2 miles) OR accept you'll Uber both ways and bud
 
 ### Sample Budget (12 people, 4 nights, one weekend)
 
+*Illustrative numbers for planning, not quotes — villa pricing varies by property and dates, and event weekends like Jazz Fest run higher than off-peak. Check live rates before you collect deposits.*
+
 | Expense | Total | Per Person |
 |---------|-------|------------|
 | House rental | $4,800 | $400 |
@@ -428,4 +438,4 @@ Stay within walking distance (1-2 miles) OR accept you'll Uber both ways and bud
 
 Jazz Fest with your crew is one of the best experiences you can have. Great music, incredible food, and a city that knows how to celebrate.
 
-Questions about planning your crew trip? [Get in touch](/contact/).
+Ready to lock in your base camp? [See where to stay](/where-to-stay/) — Jazz Fest weekends book out months ahead.
